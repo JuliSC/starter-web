@@ -16,6 +16,8 @@ This is a simple web project, deployment can be on any server or evn local file 
 
 ## How to contribute
 
+Please fork this repo and then issue Pull Request for review.
+
 ## Copyright
 
 2020 Git.Training.
